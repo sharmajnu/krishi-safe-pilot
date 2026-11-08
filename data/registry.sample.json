@@ -1,0 +1,11 @@
+{
+  "_note": "SAMPLE registry with PLACEHOLDER statuses. Every status is illustrative and marked verify:true — re-check against the current CIB&RC banned/restricted lists and registration database before ANY real run. Statuses here exist only so the pipeline and verifier can be exercised end-to-end.",
+  "as_of": "2026-08-16",
+  "substances": [
+    {"name": "monocrotophos", "aliases": [], "status": "banned_for_use", "scope": "vegetables", "verify": true},
+    {"name": "dicofol", "aliases": [], "status": "banned", "scope": "all", "verify": true},
+    {"name": "methomyl", "aliases": [], "status": "restricted", "scope": "see order", "verify": true},
+    {"name": "chlorantraniliprole", "aliases": ["coragen"], "status": "approved", "scope": "per label", "verify": true},
+    {"name": "profenofos", "aliases": [], "status": "approved", "scope": "per label", "verify": true}
+  ]
+}

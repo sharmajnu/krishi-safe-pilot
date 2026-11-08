@@ -1,0 +1,29 @@
+SOURCE SNAPSHOT (verbatim excerpts, fetched 2026-08-16)
+Grade note: ANGRAU RARS Tirupati (Acharya N.G. Ranga Agricultural University, Regional Agricultural Research Station) English PoP PDFs. Rice edition dated Kharif 2014 & Rabi 2014-15 — may be superseded by newer editions; human verification should confirm currency.
+
+--- Document 1 ---
+URL: https://www.rarstpt.org/files/rars/package%20of%20practices/Rice.pdf
+Title: RECOMMENDATIONS FOR RICE CROP PRODUCTION AND PACKAGE OF PRACTICES (ANGRAU RARS Tirupati, Southern Zone, Andhra Pradesh)
+
+Seed rate: For Nursery transplanting 20-25 Kg, for dry seed nurseries 25-30 Kg, For Direct seeding 10-12 Kg, for Direct Seeding with Gorru 16 Kg. [The "10-12" appears as "1012" in PDF text extraction — artifact.]
+Soak the paddy seed for 16-24 hours and incubate for 24-36 hours before sowing of sprouted seed.
+Sow the sprouted seed @ 5 kg/cent (40 m2) of nursery bed and 20 kg seed is sufficient for one acre of main field.
+Transplant 30 days old rice seedlings during Kharif and 20-25 days old seedlings for Rabi.
+Transplant 33 hills/m2 during Kharif and 44 hills/m2 during Rabi at 2-3 cm depth @ 2-3 seedlings/hill.
+Apply N, P2O5 and K2O @ 80:60:40 kg/ha during kharif and @ 120:60:40 kg/ha during rabi. Apply entire P2O5 & K2O as basal while N in three equal splits (Basal + Active tillering + Panicle initiation stage).
+Apply Zinc Sulphate @ 50 Kg/ha to avoid the Zn deficiency.
+Harvesting should be done when at least 80% of the grains are matured.
+The winnowed grains should be sun dried until the moisture content reaches < 13%.
+Varieties (Southern Zone): Kharif normal — Simhapuri, Tikkana, Pinakini, Sriranga, NLR 9674, Pardhiva, NLR 3041 (Nellore Sona). Rabi normal — Swarnamukhi, Cottondora sannalu (MTU 1010), Vijetha (MTU 1001), Nellore Mahsuri (NLR 34449).
+
+--- Document 2 ---
+URL: https://www.rarstpt.org/files/rars/package%20of%20practices/Groundnut.pdf
+Title: MANAGEMENT PRACTICES FOR GROUNDNUT (ANGRAU RARS Tirupati, Andhra Pradesh)
+
+Seed rate: Vemana, Narayani, Kadiri-6, Tirupati-3/4, ICGS 44, Kalahasti, JL-24: Kharif 150 kg, Rabi 180 kg kernel/ha. Kadiri-7 Bold, Kadiri-8 Bold, Kadiri-4/5, TAG-24, JCG-88, TMV-2, Abhaya, Kadiri-9, ICGV 91114, Kadiri Harithandra, Greeshma: Kharif 125 kg, Rabi 150 kg kernel/ha.
+Spacing: Spanish bunch 30 x 10 cm (Kharif), 22.5 x 10 cm (Rabi); Virginia bunch 30 x 15 cm (Kharif), 22.5 x 15 cm (Rabi).
+Fertilizer: Apply 20N + 40 P2O5 + 50 K2O kg/ha as basal for kharif crop. Phosphorus should be applied through single super phosphate. For rabi apply the same basal and 10N kg/ha at flowering.
+Apply Gypsum @ 500 kg/ha at flowering stage by placement.
+Wherever Zinc deficiency is observed, apply Zinc sulphate 50 kg/ha once in 3 seasons.
+Crop must be weed free up to 45 days after sowing.
+Varieties: Kadiri-9, Kadiri Harithandhra, Anantha, Greeshma, Vemana, Kadiri-5, Kadiri-6, Tirupati-4, Narayani, Abhaya, ICGV-91114, Dharani.

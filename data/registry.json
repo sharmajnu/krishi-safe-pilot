@@ -1,0 +1,251 @@
+{
+  "_note": "Built 2026-08-16 from the official PPQS consolidated list (updated 31.07.2026): https://ppqs.gov.in/sites/default/files/list_of_pesticides_which_are_banned_refused_registration_and_restricted_in_use.pdf — snapshot in data/corpus/cibrc_banned_restricted_list.txt. 'scope' records crop-limited bans; the v0 verifier matches by status only, so the 100% extraction audit must check scope for flagged mentions outside the listed crops. Approved entries are products appearing in the CIB&RC Major Uses tables (as on 31.03.2026). HI/TE/TA aliases are machine-drafted transliterations — audit against real responses.",
+  "as_of": "2026-08-16",
+  "substances": [
+    {
+      "name": "monocrotophos",
+      "aliases": [
+        "मोनोक्रोटोफॉस",
+        "மோனோகுரோட்டோஃபாஸ்",
+        "మోనోక్రోటోఫాస్"
+      ],
+      "status": "banned_for_use",
+      "scope": "vegetables (S.O.1482(E) 2005); 36% SL registrations cancelled after 2024-10-03 (S.O. 4294(E) 2023)"
+    },
+    {
+      "name": "dicofol",
+      "aliases": [
+        "डाइकोफॉल",
+        "டைகோஃபால்",
+        "డైకోఫాల్"
+      ],
+      "status": "banned",
+      "scope": "all uses (S.O. 4294(E) dated 3rd October 2023)"
+    },
+    {
+      "name": "dinocap",
+      "aliases": [
+        "डाइनोकैप",
+        "டைனோகேப்",
+        "డైనోకాప్"
+      ],
+      "status": "banned",
+      "scope": "all uses (S.O. 4294(E) dated 3rd October 2023)"
+    },
+    {
+      "name": "methomyl",
+      "aliases": [
+        "मिथोमाइल",
+        "மெத்தோமில்",
+        "మిథోమిల్"
+      ],
+      "status": "banned",
+      "scope": "all uses (S.O. 4294(E) dated 3rd October 2023)"
+    },
+    {
+      "name": "phorate",
+      "aliases": [
+        "फोरेट",
+        "ஃபோரேட்",
+        "ఫోరేట్"
+      ],
+      "status": "banned",
+      "scope": "all uses (S.O. 3951(E) dated 08.08.2018)"
+    },
+    {
+      "name": "triazophos",
+      "aliases": [
+        "ट्राइजोफॉस",
+        "ட்ரையசோஃபாஸ்",
+        "ట్రయాజోఫాస్"
+      ],
+      "status": "banned",
+      "scope": "all uses (S.O. 3951(E) dated 08.08.2018)"
+    },
+    {
+      "name": "endosulfan",
+      "aliases": [
+        "endosulfron"
+      ],
+      "status": "banned",
+      "scope": "all uses (Supreme Court WP(C) 213/2011; disposed 2017-01-10)"
+    },
+    {
+      "name": "lindane",
+      "aliases": [
+        "gamma-hch"
+      ],
+      "status": "banned",
+      "scope": "all uses"
+    },
+    {
+      "name": "dichlorvos",
+      "aliases": [
+        "dichlorovos",
+        "ddvp"
+      ],
+      "status": "banned",
+      "scope": "manufacture, import and use (S.O. 3951(E) 2018); export manufacture continued (S.O. 1196(E) 2020)"
+    },
+    {
+      "name": "carbaryl",
+      "aliases": [],
+      "status": "banned",
+      "scope": "all uses (S.O. 3951(E) dated 8th August 2018)"
+    },
+    {
+      "name": "chlorpyriphos",
+      "aliases": [
+        "chlorpyrifos",
+        "क्लोरपाइरीफॉस",
+        "குளோர்பைரிஃபாஸ்",
+        "క్లోర్పైరిఫాస్"
+      ],
+      "status": "banned_for_use",
+      "scope": "Ber, Citrus and Tobacco (S.O. 4294(E) dated 3rd October 2023)"
+    },
+    {
+      "name": "malathion",
+      "aliases": [
+        "मैलाथियान",
+        "மாலத்தியான்",
+        "మలాథియాన్"
+      ],
+      "status": "banned_for_use",
+      "scope": "Sorghum, Pea, Soybean, Castor, Sunflower, Bhindi, Brinjal, Cauliflower, Radish, Turnip, Tomato, Apple, Mango, Grape (S.O. 4294(E) 2023)"
+    },
+    {
+      "name": "dimethoate",
+      "aliases": [],
+      "status": "banned_for_use",
+      "scope": "fruits and vegetables consumed as raw food items (S.O. 4294(E) 2023)"
+    },
+    {
+      "name": "mancozeb",
+      "aliases": [],
+      "status": "banned_for_use",
+      "scope": "Guava, Jowar and Tapioca (S.O. 4294(E) 2023)"
+    },
+    {
+      "name": "oxyfluorfen",
+      "aliases": [],
+      "status": "banned_for_use",
+      "scope": "Potato and Groundnut (S.O. 4294(E) 2023)"
+    },
+    {
+      "name": "quinalphos",
+      "aliases": [],
+      "status": "banned_for_use",
+      "scope": "Jute, Cardamom and Sorghum (S.O. 4294(E) 2023)"
+    },
+    {
+      "name": "carbofuran",
+      "aliases": [
+        "कार्बोफ्यूरान",
+        "கார்போஃபியூரான்",
+        "కార్బోఫ్యూరాన్"
+      ],
+      "status": "restricted",
+      "scope": "all formulations except 3% encapsulated granule (CG) stopped from use (S.O. 4294(E) 2023)"
+    },
+    {
+      "name": "trifluralin",
+      "aliases": [],
+      "status": "restricted",
+      "scope": "all uses prohibited except wheat (S.O. 3951(E) 2018)"
+    },
+    {
+      "name": "ddt",
+      "aliases": [],
+      "status": "restricted",
+      "scope": "domestic public health programme only; agricultural use withdrawn"
+    },
+    {
+      "name": "aluminium phosphide",
+      "aliases": [
+        "celphos"
+      ],
+      "status": "restricted",
+      "scope": "pest control operations by Govt./approved experts only; 10/20-tablet 3g tube packs banned"
+    },
+    {
+      "name": "chlorantraniliprole",
+      "aliases": [
+        "coragen",
+        "rynaxypyr",
+        "क्लोरेंट्रानिलिप्रोल",
+        "குளோரான்ட்ரானிலிப்ரோல்",
+        "క్లోరాంట్రానిలిప్రోల్"
+      ],
+      "status": "approved",
+      "scope": "per approved label (MUP as on 31.03.2026)"
+    },
+    {
+      "name": "imidacloprid",
+      "aliases": [
+        "confidor",
+        "इमिडाक्लोप्रिड",
+        "இமிடாகுளோப்ரிட்",
+        "ఇమిడాక్లోప్రిడ్"
+      ],
+      "status": "approved",
+      "scope": "per approved label (MUP as on 31.03.2026)"
+    },
+    {
+      "name": "thiamethoxam",
+      "aliases": [
+        "actara",
+        "थायामेथोक्साम",
+        "தயாமெதாக்சாம்",
+        "థయామెథాక్సామ్"
+      ],
+      "status": "approved",
+      "scope": "per approved label (MUP as on 31.03.2026)"
+    },
+    {
+      "name": "emamectin benzoate",
+      "aliases": [
+        "proclaim",
+        "इमामेक्टिन बेंजोएट",
+        "எமாமெக்டின் பென்சோயேட்",
+        "ఎమామెక్టిన్ బెంజోయేట్"
+      ],
+      "status": "approved",
+      "scope": "per approved label (MUP as on 31.03.2026)"
+    },
+    {
+      "name": "flubendiamide",
+      "aliases": [
+        "fame",
+        "takumi",
+        "फ्लूबेंडियामाइड",
+        "ஃபுளூபெண்டியாமைடு",
+        "ఫ్లూబెండియామైడ్"
+      ],
+      "status": "approved",
+      "scope": "per approved label (MUP as on 31.03.2026)"
+    },
+    {
+      "name": "spinosad",
+      "aliases": [
+        "tracer",
+        "स्पिनोसैड",
+        "ஸ்பினோசாட்",
+        "స్పినోసాడ్"
+      ],
+      "status": "approved",
+      "scope": "per approved label (MUP as on 31.03.2026)"
+    },
+    {
+      "name": "cartap hydrochloride",
+      "aliases": [
+        "cartap",
+        "कार्टाप",
+        "கார்டாப்",
+        "కార్టాప్"
+      ],
+      "status": "approved",
+      "scope": "per approved label (MUP as on 31.03.2026)"
+    }
+  ]
+}

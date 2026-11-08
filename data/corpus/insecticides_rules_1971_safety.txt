@@ -1,0 +1,30 @@
+SOURCE SNAPSHOT (verbatim excerpts, fetched 2026-08-16)
+URL: https://www.py.gov.in/sites/default/files/insecticidesrules1971.pdf
+Title: The Insecticides Rules, 1971 (official Puducherry government mirror) — Chapter VIII Rules 39-40; Rule 19 labelling
+
+39. Protective clothing
+1. Persons handling insecticides during its manufacture, formulation, transport, distribution or application, shall be adequately protected with appropriate clothing.
+2. The protective clothing shall be used wherever necessary, in conjunction with respiratory devices as laid down in rule 40.
+3. The protective clothing shall be made of materials, which prevent or resist the penetration of any form of insecticides formulations. The materials shall also be washable so that the toxic elements may be removed after each use.
+4. A complete suit of protective clothing shall consist of the following dresses, namely:
+a. Protective outer garment / overalls / hood / hat;
+b. Rubber gloves or such other protective gloves extending half way up to the fore-arm, made of materials impermeable to liquids;
+c. Dust-proof goggles
+d. Boots
+
+40. Respiratory devices: For preventing inhalation of toxic dusts, vapours or gases the workers shall use any of the following types of respirators or gas-masks suitable for the purpose, namely:
+a. Chemical cartridge respirator
+b. Supplied air respirator
+c. Demand flow, type respirator
+d. Full face or half face gas masks with canister
+In no case shall the concentrates of insecticides in the air where the insecticides are mixed exceed the maximum permissible values.
+
+Rule 19 (labelling, excerpt): The label shall contain in a prominent place ... a square, set at an angle of 45 degrees (diamond shape) ... divided into two equal triangles, the upper portion shall contain the symbol and signal word specified in sub-rule (4):
+i. insecticides belonging to Category I (Extremely toxic) shall contain the symbol of a skull and cross-bones and the word "POISON" printed in red. The following warning statements shall also appear on the label: a. "KEEP OUT OF THE REACH OF CHILDREN" b. "IF SWALLOWED, OR IF, SYMPTOMS OF POISONING OCCUR CALL PHYSICIAN IMMEDIATELY"
+ii. insecticides in Category II (highly toxic) will contain the word "POISON" printed in red and the statement "KEEP OUT OF THE REACH OF CHILDREN"
+iii. Insecticides in Category III (moderately toxic) shall bear the word "DANGER"
+iv. Insecticides in Category IV (slightly toxic) shall bear the word "CAUTION"
+
+Rule 10-C (storage near food, excerpt): No person shall manufacture, store or expose for sale or permit the sale or storage of any insecticide in the same building where any articles consumable by human beings or animals are manufactured, stored or exposed for sale.
+
+Rule 18 (leaflet, excerpt): b. Particulars regarding chemicals harmful to human beings, animals and wild life, warning and cautionary statements including the symptoms of poisoning suitable and adequate safety measures and emergency first-aid treatment where necessary; c. Cautions regarding storage and application of insecticides with suitable warning relating to inflammable, explosive or other substance harmful to the skin.

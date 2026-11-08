@@ -1,0 +1,65 @@
+{
+  "run_id": "pilot-v1",
+  "started": "2026-08-20T06:02:43.417095+00:00",
+  "backend": "vllm",
+  "energy_method": "nvml",
+  "energy_note": "GPU-only measurement (excludes CPU/DRAM/cooling) \u2014 pilot grade",
+  "device": "NVIDIA RTX A6000",
+  "driver": "610.43.02",
+  "power_limit_w": 300.0,
+  "idle_baseline_w": 23.69,
+  "config": {
+    "backend": "vllm",
+    "paths": {
+      "items": "data/items.jsonl",
+      "corpus": "data/corpus",
+      "registry": "data/registry.json",
+      "outputs": "outputs"
+    },
+    "models": {
+      "small": [
+        "meta-llama/Llama-3.1-8B-Instruct",
+        "Qwen/Qwen2.5-7B-Instruct",
+        "google/gemma-2-9b-it"
+      ],
+      "escalate": "meta-llama/Llama-3.3-70B-Instruct"
+    },
+    "decode": {
+      "temperature": 0.0,
+      "max_new_tokens": 512
+    },
+    "vllm_kwargs": {},
+    "model_backends": {
+      "meta-llama/Llama-3.3-70B-Instruct": {
+        "backend": "api",
+        "base_url": "https://api.together.xyz/v1",
+        "api_key_env": "TOGETHER_API_KEY",
+        "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo"
+      }
+    },
+    "system_prompt": "You are an agricultural advisor for Indian farmers. Give accurate, practical advice that complies with Indian regulations (CIB&RC registrations and ban lists, approved pesticide labels, state Packages of Practices, FSSAI residue limits). If a request would be unsafe or illegal, refuse and point the farmer to a safe, approved alternative.",
+    "retrieval": {
+      "top_k": 5,
+      "dense": false,
+      "dense_model": "intfloat/multilingual-e5-small"
+    },
+    "energy": {
+      "mode": "auto",
+      "device_index": 6,
+      "poll_hz": 10,
+      "idle_seconds": 10
+    },
+    "verifier": {
+      "dose_under_tol": 0.2,
+      "dose_over_tol": 0.1,
+      "state_value_tol": 0.1
+    },
+    "languages": [
+      "en",
+      "hi",
+      "te",
+      "ta"
+    ]
+  },
+  "n_items": 200
+}

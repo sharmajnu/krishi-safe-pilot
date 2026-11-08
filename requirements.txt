@@ -1,0 +1,11 @@
+# Laptop / pipeline-test requirements (dummy backend)
+pyyaml>=6.0
+matplotlib>=3.8
+pytest>=8.0
+
+# GPU-server extras (install there, not needed for dummy runs):
+#   nvidia-ml-py            — energy measurement (provides the pynvml module;
+#                             do NOT install the deprecated 'pynvml' package)
+#   vllm                    — inference backend
+#   transformers torch      — hf fallback backend
+#   sentence-transformers   — dense retrieval (retrieval.dense: true)

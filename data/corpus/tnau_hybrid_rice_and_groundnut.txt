@@ -1,0 +1,22 @@
+SOURCE SNAPSHOT (verbatim excerpts, fetched 2026-08-16)
+
+--- Document 1 ---
+URL: https://agritech.tnau.ac.in/agriculture/agri_cropproduction_cereals_rice_transplantedrice.html
+Title: TNAU Agritech Portal — Crop Production — Transplanted Hybrid Rice (Tamil Nadu)
+
+Seed rate - 20 kg per hectare.
+Nursery - Basal application of DAP at 2 kg/cent of nursery area. Sparse sowing of seeds at one kg/cent of nursery area will give robust seedlings with 1-2 tillers per seedling at the time of planting. If the soil is heavy, apply 4 kg gypsum/cent of nursery area, 10 days before pulling of seedlings.
+Age of seedling - 20 to 25 days.
+Spacing (cm) - 20 x 10 (50 hills/m2) or 25 x 10 (40 hills/m2) according to soil fertility.
+Seedlings/hill - One (along with tillers if already produced).
+Fertilizer - 175:60:60 kg N, P2O5 and K2O/ha.
+
+--- Document 2 ---
+URL: https://agritech.tnau.ac.in/agriculture/agri_majorareas_dryland_highyield_groundnut.html
+Title: TNAU Agritech Portal — Dryland Agriculture — High Yield Groundnut (rainfed, Tamil Nadu)
+
+Seed rate @ of 50 kg/acre is found to be sufficient. With the seed drill sowing 40 kg seed is sufficient.
+Row to row spacing is 30 cm with the plant spacing of 10 cm.
+Nitrogen 4 kg/acre (9 kg urea), 4 kg of phosphate (25 kg super phosphate) and 18 kg of ash (30 kg potash) to be applied as basal nutrient. [Note: "ash" appears to be a typo for K2O on the source page — interpretation, not verified text.]
+Gypsum: For one acre 160 kg applied at 30-45 days after sowing in the sides, depending upon moisture of the soil.
+Varieties: TMV 7 (widely cultivated across Tamil Nadu for the past 44 years), TMV 13 (red seeded, rich in oil content), VRI 2, VRI 3 (bunch type, yields in 95 days).

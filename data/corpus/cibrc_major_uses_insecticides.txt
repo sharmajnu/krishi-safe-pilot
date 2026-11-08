@@ -1,0 +1,78 @@
+SOURCE SNAPSHOT (verbatim excerpts, fetched 2026-08-16)
+URL: https://ppqs.gov.in/sites/default/files/updated_mup_insecticide_as_on_31.03.2026_c.pdf
+Title: MAJOR USES OF PESTICIDES (Registered under the Insecticides Act, 1968) (UPTO-31.03.2026) — INSECTICIDES
+Column order in every row: Crop | Pest | Dosage a.i. (gm)/ha | Formulation (gm or ml)/ha | Dilution in Water (Liter) | Waiting Period (days)
+Extraction note: pdftotext -layout, column whitespace collapsed. Unit "ml" applies to liquid formulations (SC/SL), "g" to solids (WG/SG/SP); the PDF header gives the combined unit "gm/ml".
+
+Directorate of Plant Protection, Quarantine & Storage | Central Insecticide Board & Registration Committee | N.H.-IV, Faridabad-121001 (Haryana). Disclaimer: The document has been compiled on the basis of available information for guidance and not for legal purposes.
+
+Chlorantraniliprole 18.50% SC:
+Rice Stem borer, Leaf folder 30 150 500 47
+Cabbage Diamond back moth 10 50 500 03
+Cotton American bollworm, Spotted bollworm, Tobacco caterpillar 30 150 500 09
+Sugarcane Termite 100-125 500-625 1000 208; Early shoot borer, Top borer 75 375 1000 208
+Tomato Fruit borer 30 150 500 03
+Chilli Fruit borer and Tobacco caterpillar 30 150 500 03
+Brinjal Shoot & Fruit borer 40 200 500-750 22
+Pigeon pea Gram Pod borer and Pod Fly 30 150 500-750 29
+Soybean Green Semi looper, Stem fly, Girdle beetle and Tobacco caterpillar 30 150 500-750 22
+Bengal gram Pod borers 25 125 500 11
+Black gram Pod borers 20 100 500 20
+Bitter gourd Fruit borers & Leaf Caterpillars 20-25 100-125 500 07
+Okra (Bhindi) Fruit Borer 25 125 500 05
+Maize Spotted stem borer (Chilo partellus), Pink stem borer (Sesamia inferens), Fall army worm (Spodoptera frugiperda) 40 200 500 10
+Groundnut Tobacco caterpillar (Spodoptera litura) 30 150 500 28
+Green gram Pod borers 25 125 400-600 14
+Red Gram Gram Pod borer, Pod fly 30 150 500 22
+
+Imidacloprid 17.80% SL:
+Cotton Aphid, Whitefly, Jassid, Thrips 20-25 100-125 500-700 40
+Paddy(Rice) Brown plant hopper, White backed plant hopper, Green leafhopper 20-25 100-125 500-700 40
+Chilli Jassid, Aphid, Thrips 25-50 125-250 500-700 40
+Sugarcane Termite 70 350 1875 45
+Mango Hopper 0.40-0.80 g/tree 2-4 ml/tree 10 litre 45
+Sunflower Whitefly, Jassid, Thrips 20 100 500 30
+Okra (Bhindi) Aphid, Jassid, Thrips 20 100 500 03
+Groundnut Aphid, Jassid 20-25 100-125 500 40
+Tomato Whitefly 30-35 150-175 500 03
+
+Imidacloprid 17.1% w/w SL:
+Cotton Aphid, Whitefly, Jassids, Thrips 50 250 500 50
+Rice Brown Plant Hopper, White Backed Plant Hopper and Green Leaf Hopper 60 300 500 39
+
+Thiamethoxam 25% WG:
+Rice(Paddy) Stem borer, Gall midge, Leaf folder, White backed plant hopper, Brown plant hopper, Green leaf hopper, Thrips 25 100 500-750 14
+Cotton Jassid, Aphid, Thrips 25 100 500-750 21; Whitefly 50 200 500-750 21
+Okra (Bhindi) Jassid, Aphid, Whitefly 25 100 500-1000 05
+Mango Hoppers 25 100 1000 30
+Wheat Aphid 12.5 50 500 21
+Mustard Aphid 12.5-25 50-100 500-1000 21
+Tomato Whitefly 50 200 500 05
+Brinjal Whitefly 50 200 500 03
+
+Emamectin benzoate 05% SG:
+Cotton Boll worms 9.5-11.0 190-220 500 10
+Okra (Bhindi) Fruit & Shoot Borer 6.75-8.50 135-170 500 05
+Cabbage Diamond back moth 7.5-10 150-200 500 03
+Chilli Fruit borer, Thrips, Mites 10 200 500 03
+Brinjal Fruit and Shoot borer 10 200 500 03
+Red gram (Arhar/Tur) Pod borer 11 220 500-750 14
+Chickpea Pod borer 11 220 500 14
+
+Flubendiamide 39.35% w/w SC:
+Rice Stem borer, Leaf folder 24.0 50.0 375-500 40
+Cotton Bollworms (American & Spotted bollworm) 48-60 100-125 375-500 25
+Chilli Fruit borer 48-60 100-125 500 07
+Tomato Fruit borer 48 100 375-500 05
+Brinjal Shoot and fruit borer 72-90 150-187.5 500 05
+Okra Shoot & fruit borer 48-60 100-125 500 03
+
+Spinosad 45% SC:
+Cotton American boll worm 75-100 165-220 500 10
+Chilli Fruit borer, Thrips 73 160 500 03
+Red gram Pod borer 56-73 125-162 800-1000 47
+Brinjal Fruit & Shoot borer 73-84 162-187 500 03
+
+Cartap Hydrochloride 50% SP:
+Rice (Paddy) Stem borer, Leaf folder 500 1000 500-1000 21
+Cartap Hydrochloride 75% SG: Rice Yellow stem borer, Leaf folder 318.75-375 425-500 250-500 35-89

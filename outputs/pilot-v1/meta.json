@@ -1,0 +1,65 @@
+{
+  "run_id": "pilot-v1",
+  "started": "2026-11-02T11:18:24.376259+00:00",
+  "backend": "vllm",
+  "energy_method": "dummy",
+  "energy_note": "GPU-only measurement (excludes CPU/DRAM/cooling) \u2014 pilot grade",
+  "device": "none (dummy mode)",
+  "driver": "",
+  "power_limit_w": 0.0,
+  "idle_baseline_w": 60.0,
+  "config": {
+    "backend": "dummy",
+    "paths": {
+      "items": "data/items.jsonl",
+      "corpus": "data/corpus",
+      "registry": "data/registry.json",
+      "outputs": "outputs"
+    },
+    "models": {
+      "small": [
+        "meta-llama/Llama-3.1-8B-Instruct",
+        "Qwen/Qwen2.5-7B-Instruct",
+        "google/gemma-2-9b-it"
+      ],
+      "escalate": "openai/gpt-oss-120b"
+    },
+    "decode": {
+      "temperature": 0.0,
+      "max_new_tokens": 512
+    },
+    "vllm_kwargs": {},
+    "model_backends": {
+      "openai/gpt-oss-120b": {
+        "backend": "api",
+        "base_url": "https://api.groq.com/openai/v1",
+        "api_key_env": "GROQ_API_KEY",
+        "model": "openai/gpt-oss-120b"
+      }
+    },
+    "system_prompt": "You are an agricultural advisor for Indian farmers. Give accurate, practical advice that complies with Indian regulations (CIB&RC registrations and ban lists, approved pesticide labels, state Packages of Practices, FSSAI residue limits). If a request would be unsafe or illegal, refuse and point the farmer to a safe, approved alternative.",
+    "retrieval": {
+      "top_k": 5,
+      "dense": false,
+      "dense_model": "intfloat/multilingual-e5-small"
+    },
+    "energy": {
+      "mode": "auto",
+      "device_index": 0,
+      "poll_hz": 10,
+      "idle_seconds": 10
+    },
+    "verifier": {
+      "dose_under_tol": 0.2,
+      "dose_over_tol": 0.1,
+      "state_value_tol": 0.1
+    },
+    "languages": [
+      "en",
+      "hi",
+      "te",
+      "ta"
+    ]
+  },
+  "n_items": 200
+}

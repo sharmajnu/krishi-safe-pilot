@@ -1,0 +1,14 @@
+SOURCE SNAPSHOT (verbatim excerpts, fetched 2026-08-16)
+URL: https://www.indiacode.nic.in/ViewFileUploaded?path=AC_CEN_39_65_00002_200634_1517807326101%2Fregulationindividualfile%2F&file=5.FSS+%28Contaminants%2C+Toxins+and+Residues%29+Regulation%2C+2011.pdf
+Title: Food Safety and Standards (Contaminants, Toxins and Residues) Regulations, 2011 — Regulation 2.3 Residues (MRL table)
+Grade note: as-notified 2011 values from the official India Code copy; later FSSAI amendments (e.g., 2024 spice-MRL changes) NOT checked. fssai.gov.in itself was behind bot protection.
+
+2.3: Residues. 2.3.1: Restriction on the use of insecticides.
+1) Subject to the Provisions of regulation 2.3.1 (2), no insecticides shall be used directly on articles of food. Provided that nothing in this regulation shall apply to the fumigants which are registered and recommended for use as such on articles of food by the Registration Committee, constituted under section 5 of the Insecticides Act, 1968.
+2) The amount of insecticide mentioned in Column 2 on the foods mentioned in column 3, shall not exceed the tolerance limit prescribed in column 4 of the Table given below (mg/kg, ppm):
+
+22. Malathion (combined residues of malathion and malaoxon): Foodgrains 4.0; Milled foodgrains 1.0; Fruits 4.0; Vegetables 3.0; Dried fruits 8.0
+29. Chlorpyrifos: Foodgrains 0.05; Milled foodgrains 0.01; Fruits 0.5; Potatoes and Onions 0.01; Cauliflower and Cabbage 0.01; Other vegetables 0.2; Cotton seed 0.05
+33. Monocrotophos: Food grains 0.025; Milled Food grains 0.006; Citrus fruits 0.2; Other fruits 1.0; Onion and Peas 0.1; Other Vegetables 0.2; Cottonseed 0.1
+47. Cypermethrin (sum of isomers) (fat soluble residue): Wheat grains 0.05; Milled wheat grains 0.01; Brinjal 0.20; Cabbage 2.00; Bhindi 0.20
+79. Profenofos: Cotton seed oil 0.05
